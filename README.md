@@ -7,7 +7,6 @@
 Sites I have done..
 ---------------------------------------------------------------------------------------------------------
 - https://euboxes.com/
-- https://www.oneartcity.com/
 - https://www.24x7technicalsupport.net/
 - https://gulk.net/webhostindia.in/
 - https://gulk.net/seohost.in/
