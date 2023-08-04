@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yashwantgosavi_" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantgosavi_?logo=twitter&style=for-the-badge" alt="yashwantgosavi_" /></a> </p>
 
-- 🔭 I’m currently working on [treemiti](https://treemiti.com/)
-
 - 👯 I’m looking to collaborate on **Product base projects**
 
 - 👨‍💻 All of my projects are available at [yashwantdesign.com](yashwantdesign.com)
