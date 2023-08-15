@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yashwantgosavi_" target="blank"><img src="https://img.shields.io/twitter/follow/yashwantgosavi_?logo=twitter&style=for-the-badge" alt="yashwantgosavi_" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Product base projects**
+- 👯 I’m looking to collaborate on **Website Development Projects**
 
 - 👨‍💻 All of my projects are available at [yashwantdesign.com](yashwantdesign.com)
 
