@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Website Development Projects**
 
-- 👨‍💻 All of my projects are available at [yashwantdesign.com](yashwantdesign.com)
+- 👨‍💻 All of my projects are available at [yashwantdesign.com](yashwantdesign.com) or [Portfolio](https://yashwantgosavi.github.io/portfolio/)
 
 - 📝 I regularly write articles on [yashwantdesign/blog](yashwantdesign/blog)
 
