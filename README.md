@@ -56,6 +56,12 @@
 
 <h3 align="left">Projects I have Done:</h3>
 <table border="1">
+  <thead>
+    <tr>
+      <th><b>Website</b></th>
+      <th><b>Practice Projects</b></th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td><a href="https://yashwantgosavi.github.io/Euboxes.com/">Euboxes.com</a></td>
