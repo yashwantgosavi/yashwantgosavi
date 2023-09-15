@@ -65,7 +65,9 @@
   <tbody>
     <tr>
       <td><a href="https://yashwantgosavi.github.io/Euboxes.com/">Euboxes.com</a></td>
-      <td><a href="https://gulk.net/24x7technicalsupport.net/">24x7technicalsupport.net</a></td>
+    </tr>
+    <tr>
+       <td><a href="https://gulk.net/24x7technicalsupport.net/">24x7technicalsupport.net</a></td>
     </tr>
   </tbody>
 </table>
