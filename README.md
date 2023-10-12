@@ -72,5 +72,6 @@
       <td><a href="https://yashwantgosavi.github.io/Todo-list/">To-Do List</a></td>
     </tr>
     <tr><td><a href="https://yashwantgosavi.github.io/Jadoo/">Jadoo.com</a></td></tr>
+    <tr><td><a href="https://yashwantgosavi.github.io/cekas.com/">cekas.com</a></td></tr>
   </tbody>
 </table>
